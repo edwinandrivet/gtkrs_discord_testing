@@ -1,0 +1,15 @@
+window {
+  background-color: #1e2124;
+}
+
+.view,
+.view text {
+  background-color: rgba(114, 118, 126, .3);
+  color: #fff;
+  font-size: 1em;
+}
+
+.message,
+.message text {
+  background-color: #1e2124;
+}
